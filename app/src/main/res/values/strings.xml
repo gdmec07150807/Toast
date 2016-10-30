@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Toast</string>
+    <string name="Toast_output_text">Toast直接输出文字</string>
+    <string name="Toast_output_View_content">Toast输出View内容</string>
+    <string name="Toast_output_custom_View">Toast输出自定义view</string>
+    <string name="I_am_yellowman">我是小黄人</string>
+
+</resources>
